@@ -1,0 +1,6 @@
+[submodule "GestQuartel"]
+	path = GestQuartel
+	url = https://github.com/LuisLaia/GestQuartel.git
+[submodule "Codivideo"]
+	path = Codivideo
+	url = https://github.com/mjnesteves/ES2425.git
